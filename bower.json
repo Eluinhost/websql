@@ -1,0 +1,22 @@
+{
+  "name": "websql",
+  "main": "websql.js",
+  "version": "0.1.0",
+  "homepage": "https://code.google.com/p/websql-js/",
+  "authors": [
+    "Stepan Riha"
+  ],
+  "description": "Module that wraps asynchronous WebSQL calls with jQuery's Deferred promises.",
+  "keywords": [
+    "websql"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "*.iml"
+  ]
+}
